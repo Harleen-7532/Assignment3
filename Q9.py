@@ -7,7 +7,7 @@ class Emp:
 
          return "emp id=%d Emp name=%s Emp sal=%g" % (self.eid, self.ename, self.esal)
 
-e1= Emp(111, "Nikhil", 100000.45)
+e1= Emp(111, "Harleen", 100000.45)
 print(e1)
-e2 = Emp(111, "anish", 200000.46)
+e2 = Emp(111, " sam", 200000.46)
 print(e2)
